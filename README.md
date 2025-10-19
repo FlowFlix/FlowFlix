@@ -23,40 +23,53 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 ---
 
-### 🚀 Installation
+<details>
+  <summary>Android / Android TV</summary>
 
-**On Android/Android TV**  
 1. Download the FlowFlix.apk from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
 2. Install the downloaded APK.  
-3. Run and enjoy.  
+3. Run and enjoy.
 
-**On Windows**  
+</details>
+
+<details>
+  <summary>Windows</summary>
+
 1. Download the FlowFlix.exe installer from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
 2. Run the .exe file.  
 3. Follow the installation wizard.  
-4. Run and enjoy.  
+4. Run and enjoy.
 
-**On Linux**  
+</details>
+
+<details>
+  <summary>Linux</summary>
+
 1. Download the FlowFlix.AppImage from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
 2. Make it executable: `chmod +x FlowFlix.AppImage`  
 3. Run the application: `./FlowFlix.AppImage`  
-4. Run and enjoy.  
+4. Run and enjoy.
 
-**On iOS**  
+</details>
+
+<details>
+  <summary>iOS</summary>
+
 1. Download the FlowFlix.ipa file from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
-2. Install the app on your iPhone using sideloading, for example:  
-   - [AltStore](https://altstore.io/)  
-   - [UseScarlet](https://usescarlet.com/)
-   (DONT ASK US HOW TO SIDELOAD APP YOU HAVE A LOT OF TUTORIALS ON YOUTUBE)
-3. Run and enjoy.  
+2. Install using sideloading (AltStore, UseScarlet).  
+3. Run and enjoy.
 
-**On macOS**  
+</details>
+
+<details>
+  <summary>macOS</summary>
+
 1. Download the FlowFlix_macos.zip file from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
 2. Unzip the file.  
 3. Launch the app by double-clicking FlowFlix.app
 
+</details>
 
-**MORE SYSTEMS COMMING SOON**
 
 ### 🧩 Addons
 
