@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mRUAC25fuV)
+
 # 🌊 FlowFlix
 
 A modern, open-source media discovery app powered by [TMDB](https://www.themoviedb.org).  
