@@ -23,6 +23,8 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 ---
 
+### 🚀 Installation
+
 <details>
   <summary>Android / Android TV</summary>
 
@@ -55,8 +57,11 @@ It lets you discover titles, explore trending content, and see where to watch th
 <details>
   <summary>iOS</summary>
 
-1. Download the FlowFlix.ipa file from [Releases](https://github.com/FlowFlix/FlowFlix/releases)  
-2. Install using sideloading (AltStore, UseScarlet).  
+1. Download the FlowFlix.ipa file from [Releases](https://github.com/FlowFlix/FlowFlix/releases) 
+2. Install the app on your iPhone using sideloading, for example: 
+- [AltStore](https://altstore.io/) 
+- [UseScarlet](https://usescarlet.com/) 
+(DONT ASK US HOW TO SIDELOAD APP YOU HAVE A LOT OF TUTORIALS ON YOUTUBE) 
 3. Run and enjoy.
 
 </details>
