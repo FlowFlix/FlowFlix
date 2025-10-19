@@ -1,4 +1,8 @@
 [![Discord](https://img.shields.io/discord/1338569820320436314?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mRUAC25fuV)
+[![GitHub Release](https://img.shields.io/github/v/release/FlowFlix/FlowFlix?color=green&label=Release)](https://github.com/FlowFlix/FlowFlix/releases)
+[![GitHub stars](https://img.shields.io/github/stars/FlowFlix/FlowFlix?style=social)](https://github.com/FlowFlix/FlowFlix/stargazers)
+[![License](https://img.shields.io/github/license/FlowFlix/FlowFlix)](https://github.com/FlowFlix/FlowFlix/blob/main/LICENSE)
+[![Supported OS](https://img.shields.io/badge/OS-Android%20|%20Windows%20|%20Linux%20|%20iOS%20|%20macOS-blue)](#installation)
 
 # 🌊 FlowFlix
 
