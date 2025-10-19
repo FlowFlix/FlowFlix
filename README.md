@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mRUAC25fuV)
+[![Discord](https://img.shields.io/discord/1338569820320436314?label=Discord&logo=discord&color=7289DA)](https://discord.gg/mRUAC25fuV)
 
 # 🌊 FlowFlix
 
