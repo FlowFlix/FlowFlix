@@ -3,6 +3,9 @@
 A modern, open-source media discovery app powered by [TMDB](https://www.themoviedb.org).  
 Explore, track, and find where to watch your favorite movies and shows — legally and beautifully.
 
+<details>
+ <summary>ScreenShots</summary>
+</details>
 ---
 
 ### ✨ Overview
