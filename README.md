@@ -6,7 +6,7 @@
 # 🌊 FlowFlix
 
 A modern, open-source media discovery app powered by [TMDB](https://www.themoviedb.org).  
-Explore, track, and find where to watch your favorite movies and shows — legally and beautifully.
+Explore, track, and find where to watch your favorite movies and shows.
 
 <details>
  <summary>ScreenShots</summary>
@@ -24,7 +24,7 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 - 🧠 **Smart Discovery** — browse trending, top-rated, or genre-based content.  
 - 🎥 **TMDB Integration** — detailed metadata, posters, trailers, and more.  
-- 🔍 **Where to Watch** — shows legal streaming providers for each title.  
+- 🔍 **Where to Watch** — shows streaming providers for each title.  
 - 🧩 **Addon System** — extend the app with official addons.  
 - 🎨 **Modern UI** — smooth, fast, and designed for all devices.  
 - 🖤 **Open Source & Privacy-Friendly** — no tracking, no ads, no telemetry.
