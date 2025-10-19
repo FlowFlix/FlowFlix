@@ -61,7 +61,8 @@ It lets you discover titles, explore trending content, and see where to watch th
 2. Install the app on your iPhone using sideloading, for example: 
 - [AltStore](https://altstore.io/) 
 - [UseScarlet](https://usescarlet.com/) 
-(DONT ASK US HOW TO SIDELOAD APP YOU HAVE A LOT OF TUTORIALS ON YOUTUBE) 
+
+  (DONT ASK US HOW TO SIDELOAD APP YOU HAVE A LOT OF TUTORIALS ON YOUTUBE) 
 3. Run and enjoy.
 
 </details>
