@@ -79,6 +79,7 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 </details>
 
+---
 
 ### 🧩 Addons
 
