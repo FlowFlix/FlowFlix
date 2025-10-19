@@ -5,8 +5,8 @@ Explore, track, and find where to watch your favorite movies and shows — legal
 
 <details>
  <summary>ScreenShots</summary>
+ Comming Soon
 </details>
----
 
 ### ✨ Overview
 
