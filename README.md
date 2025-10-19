@@ -23,18 +23,6 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 ---
 
-### 🧩 Addons
-
-FlowFlix supports a modular addon system — allowing safe extensions for metadata, UI, and utilities.
-
-📦 Official addons are available here:  
-👉 [FlowFlix – Official Addons](https://github.com/FlowFlixApp/official-addons)
-
-If you want to develop your own addon, visit the developer docs:  
-📘 [FlowFlix Addon Developer Docs](https://flowflixapp.github.io/flowflix-addon-docs)
-
----
-
 ### 🚀 Installation
 
 **On Android/Android TV**
@@ -67,3 +55,15 @@ If you want to develop your own addon, visit the developer docs:
 3. Launch the app by double-clicking FlowFlix.app.
 
 **MORE SYSTEMS COMMING SOON**
+
+### 🧩 Addons
+
+FlowFlix supports a modular addon system — allowing safe extensions for metadata, UI, and utilities.
+
+📦 Official addons are available here:  
+👉 [FlowFlix – Official Addons](https://github.com/FlowFlix/FlowFlix-Official_addons)
+
+If you want to develop your own addon, visit the developer docs:  
+📘 [FlowFlix Addon Developer Docs](https://github.com/FlowFlix/FlowFlix-Addon_docs)
+
+---
