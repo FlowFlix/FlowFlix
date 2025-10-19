@@ -10,9 +10,6 @@
 **FlowFlix** is an open-source movie and series browser focused on design, simplicity.  
 It lets you discover titles, explore trending content, and see where to watch them.
 
-> 🛡️ FlowFlix does **not** stream or host any copyrighted material.  
-> It only displays public metadata and legal watch-provider information.
-
 ---
 
 ### 🎬 Features
