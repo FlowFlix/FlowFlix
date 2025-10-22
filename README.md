@@ -86,15 +86,5 @@ It lets you discover titles, explore trending content, and see where to watch th
 </details>
 
 ---
-
-### 🧩 Addons
-
-FlowFlix supports a modular addon system — allowing safe extensions for metadata, UI, and utilities.
-
-📦 Official addons are available here:  
-👉 [FlowFlix – Official Addons](https://github.com/FlowFlix/FlowFlix-Official_addons)
-
-If you want to develop your own addon, visit the developer docs:  
-📘 [FlowFlix Addon Developer Docs](https://github.com/FlowFlix/FlowFlix-Addon_docs)
-
----
+> [!IMPORTANT]
+> Vega App does not store any media files on our servers and is not directly linked to the media. Third-party services host all media, and Vega App merely provides a search and web scraping tool that indexes publicly available data. We are not responsible for the content or availability of the media, as we do not host or control any of it.
