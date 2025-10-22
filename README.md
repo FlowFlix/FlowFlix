@@ -87,4 +87,4 @@ It lets you discover titles, explore trending content, and see where to watch th
 
 ---
 > [!IMPORTANT]
-> Vega App does not store any media files on our servers and is not directly linked to the media. Third-party services host all media, and Vega App merely provides a search and web scraping tool that indexes publicly available data. We are not responsible for the content or availability of the media, as we do not host or control any of it.
+> FlowFlix does not store any media files on our servers and is not directly linked to the media. Third-party services host all media, and FlowFlix merely provides a search and web scraping tool that indexes publicly available data. We are not responsible for the content or availability of the media, as we do not host or control any of it.
